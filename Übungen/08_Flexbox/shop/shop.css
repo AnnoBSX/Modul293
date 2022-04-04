@@ -1,0 +1,29 @@
+.alles {
+    width: 800px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    font-family: Arial;
+    font-size: auto;
+}
+.gericht {
+    width: 300px;
+    height: 425px;
+    padding:10px;
+    margin:10px;
+    margin-top: 0px;
+    border:2px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+}
+.btn {
+    margin-left:85px;
+}
+.list {
+    height: 100px;
+    margin: 3px;
+    margin-bottom: auto;
+}
+.img {
+    width: 300px;
+}
