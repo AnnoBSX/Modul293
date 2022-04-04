@@ -1,8 +1,8 @@
 .alles {
     width: auto;
-    display: grid;
+    display: flex;
     grid-template-columns: auto auto auto;
-    flex-direction: left to right in ltr;
+    flex-wrap: wrap;
     font-family: Arial;
     font-size: auto;
 }
